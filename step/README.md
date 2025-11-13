@@ -7,13 +7,16 @@ The links for the files & preview pictures are linked underneath each preview.
     <img src="./preview/dht22_preview.png" width="50%" alt="DHT22 Preview" />
 </p>
 
-[STEP file](./DHT22_Module_v3.step) \
-[Download from Grabcad](https://grabcad.com/library/dht22-module-1)
+Downloads:
+- [STEP file](./DHT22_Module_v3.step)
+- [Download from Grabcad](https://grabcad.com/library/dht22-module-1)
 
 ## SG90 motor
 <p align="center">
     <img src="./preview/sg90_preview.png" width="50%" alt="SG90 Preview" />
 </p>
 
-[STEP file](./SG90_Servo_Motor.step) \
-[Download from Grabcad](https://grabcad.com/library/sg90-servomotor-180-1)
+
+Downloads:
+- [STEP file](./SG90_Servo_Motor.step)
+- [Download from Grabcad](https://grabcad.com/library/sg90-servomotor-180-1)
