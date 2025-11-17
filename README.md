@@ -4,6 +4,7 @@ In my current bathroom I have a fan that is supposed to suck out all the humid a
 # Screws & Nuts
 - 2x M1.8 Screws
 - 4x 3mm thick nuts for the M1.8 Screws
+- 3x M3 Screws for mounting the case on the base plate
 
 # Models
 I am using .step models for some parts in the assembly. All of these files are from Grabcad from awesome other creators. If you want more infor take a look at the [detailed documentation](./step/README.md).
