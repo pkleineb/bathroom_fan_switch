@@ -7,7 +7,8 @@ In my current bathroom I have a fan that is supposed to suck out all the humid a
 - 3x M3 Screws for mounting the case on the base plate
 - 3x M3x0.5 3mm deep inserts
 - 2x Flat headed M3 Screws for mounting the motor to the side of the case
-- 2x M3 nuts
+- 1x M3 Screw for mounting the dht22
+- 3x M3 nuts
 
 # Models
 I am using .step models for some parts in the assembly. All of these files are from Grabcad from awesome other creators. If you want more infor take a look at the [detailed documentation](./step/README.md).
