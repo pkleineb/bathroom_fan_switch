@@ -3,7 +3,7 @@ In my current bathroom I have a fan that is supposed to suck out all the humid a
 
 # Screws, Nuts & Inserts
 - 2x M2 Flat head Screws at least 8mm long
-- 4x M2 3mm thick nuts
+- 6x M2 1.6mm thick nuts
 
 - 3x M3 Screws for mounting the case on the base plate
 - 3x M3x0.5 3mm deep inserts
